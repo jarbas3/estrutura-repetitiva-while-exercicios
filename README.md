@@ -1,0 +1,1 @@
+Exercícios sobre a estrutura de repetição while.
